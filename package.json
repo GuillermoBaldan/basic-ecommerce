@@ -1,0 +1,22 @@
+{
+  "name": "basic-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillermoBaldan/basic-ecommerce.git"
+  },
+  "keywords": [
+    "ecommmerce"
+  ],
+  "author": "Guillermo Baldán López",
+  "license": "We Believe License",
+  "bugs": {
+    "url": "https://github.com/GuillermoBaldan/basic-ecommerce/issues"
+  },
+  "homepage": "https://github.com/GuillermoBaldan/basic-ecommerce#readme"
+}
